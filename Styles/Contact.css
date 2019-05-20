@@ -1,0 +1,14 @@
+nav {
+    text-align: right;
+    background-color: maroon;
+    padding: 30px;
+    font-size: 2.0rem
+}
+
+a {
+    color: antiquewhite;
+}
+
+.bg-img {
+    background-image: url("YJMLOGO.JPG");
+}
