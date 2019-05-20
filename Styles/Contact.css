@@ -1,13 +1,18 @@
 nav {
     text-align: left;
     background-color: maroon;
-    padding: 30px;
-    font-size: 2.0rem
+    padding: 10px;
+    font-size: 2.0rem;
 }
 
 a {
     color: antiquewhite;
+    text-decoration: none;
 }
+a:hover {
+    color: #b76e79;
+}
+
 
 img {
     width: 150px;
