@@ -1,13 +1,19 @@
 nav {
-    text-align: left;
+    text-align: right;
     background-color: maroon;
-    padding: 10px;
-    font-size: 2.0rem;
+    padding: 50px;
+    font-size: 1.5rem;
+    border: solid;
+    border-color: navy;
+    
 }
 
 a {
     color: antiquewhite;
     text-decoration: none;
+    font-family: 'Lobster Two', cursive;
+    font-weight: 200;
+    margin-left: 2rem;
 }
 a:hover {
     color: #b76e79;
@@ -17,4 +23,9 @@ a:hover {
 img {
     width: 150px;
     height: 120px;
+    border: double;
+    border-color: navy;
+    float: left;
+    margin-left: -3.0rem;
+    margin-top: -3.0rem;
 }
